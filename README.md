@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view - automat
 
 ## Contributors
 
-> [a-thread](https://github.com/a-thread)
+> Please contribute to this code.
 
 ## Test
 
