@@ -34,16 +34,13 @@ https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view - automat
 [Demo link] (https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view)
 
 ## Licence
-![github license](https://img.shields.io/badge/license-${data.license}-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Test
   > N/A
 
  ## Repository
-  - [Project Repo](${data.repo})
- `;
-}
-module.exports = generateMarkdown;
+  - [Project Repo](https://github.com/mnilou/readme-generator)
 
-// - [Repository Link](#Repository)
-// - [GitHub Info](#GitHub)
+
+[GitHub Info](https://github.com/mnilou)
