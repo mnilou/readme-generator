@@ -15,23 +15,25 @@ function generateMarkdown(data) {
   -[Repository](#Repository)
 
  ## Installation
-// //         ${data.installation}
+  > ${data.installation}
+
  ## Usage
-// // ${data.usage}
+  > ${data.usage}
 
 ## Contributors
-// // ${data.contributing}
+  > ${data.contributing}
+
 ## Licence
 ![github license](https://img.shields.io/badge/license-${data.license}-blue.svg)
+
 ## Test
-// // ${data.test}
+  > ${data.test}
+
  ## Repository
-// // - [Project Repo](${data.repo})
-
+  - [Project Repo](${data.repo})
  `;
-
 }
 module.exports = generateMarkdown;
 
 // - [Repository Link](#Repository)
-// - [GitHub Info](#GitHub) 
+// - [GitHub Info](#GitHub)
