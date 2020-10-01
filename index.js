@@ -3,16 +3,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const inquirer = require("inquirer");
 const fs = require("fs");
 const path = require("path");
-// Title
-// Description
-// Table of Contents
-// Installation
-// Usage
-// License
-// Contributing
-// Tests
-// Questions
-// Ba
+
 const questions = [
   {
     type: "input",
@@ -23,6 +14,11 @@ const questions = [
     type: "input",
     name: "description",
     message: "What is the description of your project?",
+  },
+  {
+    type: "list",
+    name: "contents",
+    message: "What is in the table of contents?",
   },
   {
     type: "input",
@@ -67,16 +63,16 @@ const questions = [
       },
     ],
   },
-//     {
-//     type: "input",
-//     name: "username",
-//     message: "What is your github user name?",
-//   },
-//   {
-//     type: "input",
-//     name: "repo",
-//     message: "What is your repo link?",
-//   },
+  {
+    type: "input",
+    name: "username",
+    message: "What is your github user name?",
+  },
+  {
+    type: "input",
+    name: "repo",
+    message: "What is your repo link?",
+  },
 ];
 // function to write README file
 function writeToFile(fileName, data) {
