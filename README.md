@@ -46,7 +46,7 @@
 
 ## Demo
 
-![animated demo of app](README Demo.gif)
+![animated demo of app](README-Demo.gif)
 <!-- ! <iframe src="https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/preview" width="640" height="480"></iframe> -->
 
 ## Contributors
