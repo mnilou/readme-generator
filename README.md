@@ -45,9 +45,7 @@
 > In your command line, run node index and follow the prompts to generate a README within node.
 
 ## Demo
-
-https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view - automatic!
-[Demo link] (https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view)
+![animated demo of app](https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view)
 
 ## Contributors
 
