@@ -1,12 +1,6 @@
 ## README Generator
 
--[By: Nilou Mostofi](https://img.shields.io/badge/By-mnilou-9cf.svg)
-
-## Screenshots
-
-<img src= "assets\screenshot1.jpg" alt = "Screenshot of Terminal">
-
-<img src= "assets\screenshot2.jpg" alt = "Screenshot of README">
+<!-- -[By: Nilou Mostofi](https://img.shields.io/badge/By-mnilou-9cf.svg) -->
 
 ## Description
 
@@ -15,6 +9,12 @@
     AS A developer
     I WANT a README generator
     SO THAT can quickly create a professional README for a new project
+
+## Screenshots
+
+<img src= "assets\screenshot1.jpg" alt = "Screenshot of Terminal">
+
+<img src= "assets\screenshot2.jpg" alt = "Screenshot of README">
 
 ## Table of contents
 
@@ -41,7 +41,7 @@
 
 ## Usage
 
-> In your command line, run node index and follow the prompts to generate a README within moments.
+> In your command line, run node index and follow the prompts to generate a README within node.
 
 ## Demo
 
