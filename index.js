@@ -58,28 +58,22 @@ const questions = [
       },
     ],
   },
-  {
-    type: "input",
-    name: "username",
-    message: "What is your github user name?",
-  },
-  {
-    type: "input",
-    name: "repo",
-    message: "What is your repo link?",
-  },
 ];
-// function to write README file
 function writeToFile(fileName, data) {
-  return fs.writeFileSync(path.join(process.cwd, fileName), data);
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data)
 }
 
 // function to initialize program
 function init() {
-  inquirer.prompt(questions).then(function (answers) {
-    writeToFile("README.md", generateMarkdown(answers));
-  });
+
+inquirer.prompt(questions).then((answers) => {
+writeToFile("README.md", generateMarkdown(answers));
+console.log("New README file created with success!");
+})
+
 }
 
 // function call to initialize program
 init();
+
+
