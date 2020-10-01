@@ -1,6 +1,8 @@
 
   ## README Generator
 
+  -[Nilou Mostofi](https://img.shields.io/badge/License-MIT-yellow.svg) (https://img.shields.io/static/v1?label=By&message=Nilou-Mostofi&color=informational)
+
   ## Description 
   > This is a command-line application that generates a professional README. Using prompts in the terminal, the README generator creates a README from user input that includes a title, as well as sections for a description, table of contents, installation, usage, contributors, tests, and tests.
 
@@ -38,8 +40,6 @@ https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view - automat
 <img src= "assets\screenshot1.jpg" alt = "Screenshot of Terminal">
 
 <img src= "assets\screenshot2.jpg" alt = "Screenshot of README">
-
-<img src= "assets\screenshot3.jpg" alt = "Screenshot of Markdown">
 
 ## Licence
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
