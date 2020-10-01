@@ -1,7 +1,7 @@
-# Readme
+# README
 
   ## Description 
-  > Description here
+  > Description goes here
 
  ## Table of contents
   - [Description](#Description)
@@ -13,19 +13,19 @@
   -[Repository](#Repository)
 
  ## Installation
-  > Install instructions here
+  > Installation info goes here
 
  ## Usage
-  > usage info here.
+  > Usage info goes here
 
 ## Contributors
-  > contributors
+  > Contributors
 
 ## Licence
 ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Test
-  > tests
+  > Test if any
 
  ## Repository
   - [Project Repo](undefined)
