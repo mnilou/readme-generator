@@ -20,13 +20,17 @@
 
 - [Screenshots](#Screenshots)
 - [Description](#Description)
+- [Licence](#Licence)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Contributors](#Contributors)
 - [Demo](#Demo)
-- [Licence](#Licence)
+- [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository](#Repository)
+
+## Licence
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Installation
 
@@ -39,18 +43,14 @@
 
 > In your command line, run node index and follow the prompts to generate a README within moments.
 
-## Contributors
-
-> [a-thread](https://github.com/a-thread)
-
 ## Demo
 
 https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view - automatic!
 [Demo link] (https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view)
 
-## Licence
+## Contributors
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+> [a-thread](https://github.com/a-thread)
 
 ## Test
 
