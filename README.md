@@ -28,15 +28,18 @@
   > In your command line, run node index and follow the prompts to generate a README within moments.
 
 ## Contributors
-  > ![Aiden Threadgoode a-thread](https://github.com/a-thread)
+  > [a-thread](https://github.com/a-thread)
 
 ## Demo
 https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view - automatic!
 [Demo link] (https://drive.google.com/file/d/1seTdidXV9rPbhXlQqtyVTRECu2n9-fIs/view)
 
 ## Screenshots
-![Screenshot 1](assets\screenshot1.jpg)
-Format: ![Alt Text](url)
+<img src= "assets\screenshot1.jpg" alt = "Screenshot of Terminal">
+
+<img src= "assets\screenshot2.jpg" alt = "Screenshot of README">
+
+<img src= "assets\screenshot3.jpg" alt = "Screenshot of Markdown">
 
 ## Licence
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -45,4 +48,4 @@ Format: ![Alt Text](url)
   > N/A
 
  ## Repository
-  - [GitHub Info](https://github.com/mnilou)
+  - [GitHub Portfolio](https://github.com/mnilou)
