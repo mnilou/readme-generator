@@ -1,10 +1,13 @@
 ## README Generator
 
+## License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 <!-- -[By: Nilou Mostofi](https://img.shields.io/badge/By-mnilou-9cf.svg) -->
 
 ## Description
 
-> This is a command-line application that generates a professional README. Using prompts in the terminal, the README generator creates a README from user input that includes a title, as well as sections for a description, table of contents, installation, usage, contributors, tests, and tests.
+> This is a command-line application that generates a professional README. Using prompts in the terminal, the README generator creates a README from user input that includes a title, as well as sections for a description, table of contents, installation, usage, demo, contributors, and tests.
 
     AS A developer
     I WANT a README generator
@@ -18,9 +21,9 @@
 
 ## Table of contents
 
-- [Screenshots](#Screenshots)
-- [Description](#Description)
 - [Licence](#Licence)
+- [Description](#Description)
+- [Screenshots](#Screenshots)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Demo](#Demo)
@@ -28,16 +31,14 @@
 - [Test](#Test)
 - [Repository](#Repository)
 
-## Licence
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Installation
 
 > In the command line, run:
 
-    * npm install
-    * npm install moment
+    * require node.js
+    * npm init -y
+    * npm install inquirer
 
 ## Usage
 
